@@ -12,11 +12,12 @@
 }
 
 body {
-    display: flex;
+     background: url(fundo.jpg);
+     display: flex;
     justify-content: center;
     align-items: center;
     padding: 16px 21px 18px 21px;
-        background: url(fundo.jpg);
+   
     height: 100vh;
     flex-direction: column;
 }
